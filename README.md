@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michalkaszkiel
-- ( ͡• ͜ʖ ͡•) I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape.
+- I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape.
 - ![nvidia](https://img.shields.io/badge/Nvidia-000000?style=for-the-badge&logo=Nvidia&logoColor=white,green)RTX 3060 Mobile on board
 - 🌱 I’m currently learning Web development with WD22E12 at DCI
 - 📫 How to reach me www.linkedin.com/in/michał-kaszkiel-11mk11
