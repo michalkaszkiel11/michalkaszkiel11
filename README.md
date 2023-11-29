@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michalkaszkiel
-- I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape.
+- I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :D
   
 - Willing to learn Federated Learning 
 
