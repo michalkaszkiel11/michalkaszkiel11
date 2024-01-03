@@ -1,3 +1,4 @@
+![1702489916906](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/3a43d28b-c469-4715-8e2a-f3db68e0f03c)
 - 👋 Hi, I’m @michalkaszkiel
 - I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :D
   
