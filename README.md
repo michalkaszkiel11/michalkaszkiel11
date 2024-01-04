@@ -43,6 +43,23 @@ https://travel-blog-a62ef.web.app/
 
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
+Whether you're a seasoned globetrotter or a first-time explorer, our blog is designed to cater to your wanderlust cravings with a touch of simplicity and warmth.
+
+Story Sharing:
+- Post Your Adventures: Share your travel stories with the world. Our user-friendly interface allows you to effortlessly create and publish your narratives, complete with photos and anecdotes.
+- Read and Connect: Dive into a collection of captivating travel stories from around the globe. Connect with fellow storytellers, exchange tips, and relive the magic of exploration.
+  
+Cues for Travelers:
+- Hidden Gems: Discover off-the-beaten-path destinations, hidden gems, and local favorites recommended by our community of travelers.
+- Budget-Friendly Tips: Get practical advice on how to explore on a budget, find affordable accommodation, and savor local cuisine without breaking the bank.
+- 
+Task List for Travelers:
+- Interactive Checklists: Plan your trips seamlessly with interactive checklists for packing, itinerary planning, and must-see attractions.
+- Collaborative Planning: Invite travel buddies to join your trip planning. Collaborate on shared lists, ensuring everyone is on the same page for a stress-free journey.
+
+Local Guides:
+- Authentic Local Experiences: Access curated guides created by locals. Experience a destination through the eyes of those who call it home.
+
 
 <h3>Simple-Task</h3>
   https://simple-list-mk.netlify.app/
