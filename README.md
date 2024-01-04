@@ -43,6 +43,7 @@ https://travel-blog-a62ef.web.app/
 
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
+# Travel-Blog
 Whether you're a seasoned globetrotter or a first-time explorer, our blog is designed to cater to your wanderlust cravings with a touch of simplicity and warmth.
 
 Story Sharing:
@@ -66,6 +67,7 @@ Local Guides:
   
 ![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
 
+# Simple-Task
 Task Creation and Priority:
 - Effortless Task Entry: Quickly create tasks with a simple title and description.
 - Priority Rating: Assign a priority rating to each task using a 5-star system, helping you identify and focus on high-priority items.
