@@ -119,6 +119,9 @@ Cesar cipher class has its methods:
 <a href="https://linkedin.com/in/michał-kaszkiel-11mk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kaszkiel-11mk11" height="50" width="60" /></a>
 <a href="https://instagram.com/blessska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessska" height="50" width="60" /></a>
 </p>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalkaszkiel11&show_icons=true&locale=en&layout=compact" alt="michalkaszkiel11" />
+</p>
 
 <p align="center">
 <h2 align="left">Languages and Tools:</h2>
@@ -152,9 +155,7 @@ Cesar cipher class has its methods:
 </p>
 <br>
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalkaszkiel11&show_icons=true&locale=en&layout=compact" alt="michalkaszkiel11" />
-</p>
+
 
  <br>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michalkaszkiel11&show_icons=true&theme=dark&title_color=177ede&bg_color=e5f6ff&locale=en" alt="michalkaszkiel11" />
