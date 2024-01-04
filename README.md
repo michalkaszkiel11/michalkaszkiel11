@@ -11,6 +11,7 @@ using React and Vanilla JS.</h3>
 - 🌱 I’m currently learning Web development with WD22E12 at DCI
 - 🎰 Willing to learn Federated Learning 
 
+![Beige   Grey Minimalist Aesthetic Simple Grid Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/f5a7cc40-2027-4ba9-bec7-5ad812d47ff1)
 
 
 <img src="https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red" alt="html5" width="120" height="30"/>
