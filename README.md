@@ -154,7 +154,8 @@ Cesar cipher class has its methods:
 <br>
 
 # [GitHub ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Statistics
-<p align="center">&nbsp;<img align="center" card_width="500px" src="https://github-readme-stats.vercel.app/api?username=michalkaszkiel11&show_icons=true&theme=dark&title_color=177ede&bg_color=e5f6ff&locale=en" alt="michalkaszkiel11" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalkaszkiel11&langs_count=8)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalkaszkiel11&show_icons=true&theme=dark&title_color=177ede&bg_color=e5f6ff&locale=en" alt="michalkaszkiel11" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalkaszkiel11&" alt="michalkaszkiel11" /></p>
 
 <h3 align="center">It was pleasure to host you here. Keep safe!</h3>
