@@ -12,6 +12,7 @@ using React and Vanilla JS.</h3>
 - 🎰 Willing to learn Federated Learning 
 
 <h2 align="center">My Work</h2>
+
 # Nutra Stride
  https://nutra-stride.netlify.app/
  
