@@ -15,6 +15,10 @@ using React and Vanilla JS.</h3>
 
 ![Beige   Grey Minimalist Aesthetic Simple Grid Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/f5a7cc40-2027-4ba9-bec7-5ad812d47ff1)
 
+<p>
+ <h3 align="left">Check out my portfolio with the links to my web apps </h3>
+ <a href="/https://michalkaszkiel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app/" height="50" width="60" /></a>
+</p>
 
 <img src="https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red" alt="html5" width="120" height="30"/>
 <p>Italian design lover.</p>
@@ -23,7 +27,6 @@ using React and Vanilla JS.</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michał-kaszkiel-11mk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kaszkiel-11mk11" height="50" width="60" /></a>
 <a href="https://instagram.com/blessska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessska" height="50" width="60" /></a>
-<a href="/https://michalkaszkiel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app/" height="50" width="60" /></a>
 </p>
 
 <p align="center">
