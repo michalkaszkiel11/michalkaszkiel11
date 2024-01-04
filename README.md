@@ -1,4 +1,4 @@
-![1702489916906](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/3a43d28b-c469-4715-8e2a-f3db68e0f03c)
+![Michal](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/b6328fd6-dde0-4f0d-8fe6-17a629e529c0)
 <h1 align="center">Hi 👋, I'm Michal Kaszkiel
 
 
