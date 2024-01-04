@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michał-kaszkiel-11mk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kaszkiel-11mk11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michał-kaszkiel-11mk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kaszkiel-11mk11" height="50" width="60" /></a>
 <a href="https://instagram.com/blessska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessska" height="30" width="40" /></a>
 <a href="/https://michalkaszkiel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app/" height="30" width="40" /></a>
 </p>
