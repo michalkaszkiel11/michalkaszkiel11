@@ -12,19 +12,23 @@ using React and Vanilla JS.</h3>
 - 🎰 Willing to learn Federated Learning 
 
 <h2 align="center">My Work</h2>
-- Nutra-Stride https://nutra-stride.netlify.app/
+<h3>Nutra-Stride</h3>
+ https://nutra-stride.netlify.app/
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
 
-- Travel Blog https://travel-blog-a62ef.web.app/
+<h3>Travel-Blog</h3>
+https://travel-blog-a62ef.web.app/
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
- 
-- Simple-Task https://simple-list-mk.netlify.app/
+
+<h3>Simple-Task</h3>
+  https://simple-list-mk.netlify.app/
 ![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
 
  
-- RoC-Encryptor https://roc-encryptor.netlify.app/
+<h3>RoC-Encryptor</h3>
+- https://roc-encryptor.netlify.app/
   ![Beżowy Brązowy Szary Wyrafinowany Album z Wycinkami Nowy Rok Życzenia Kolaż Zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6c92656f-39d6-473b-82f2-023d8eaf3a8f)
 
 
