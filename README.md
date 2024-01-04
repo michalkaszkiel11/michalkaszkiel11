@@ -11,6 +11,7 @@ using React and Vanilla JS.</h3>
 - 🌱 I’m currently learning Web development with WD22E12 at DCI
 - 🎰 Willing to learn Federated Learning 
 
+<h2 align="center">My Work</h2>
 ![Beige   Grey Minimalist Aesthetic Simple Grid Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/f5a7cc40-2027-4ba9-bec7-5ad812d47ff1)
 
 
