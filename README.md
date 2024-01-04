@@ -21,6 +21,26 @@ using React and Vanilla JS.</h3>
 <h3>Travel-Blog</h3>
 https://travel-blog-a62ef.web.app/
 
+- Nutra Stride is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
+Our platform inspire users to make positive changes in their lives through personalized health solutions.
+
+Users Target
+- In nearly every European country approximately  10% of population  is affected by significant health conditions.
+- 30% may have health problems.
+- About 60 to 70% of population have no major health issues.
+
+Project aspire to fill market niche gap.
+- A flood of small unreliable providers
+- No diversity in several areas (overall approach to the user)
+
+Self care problems
+- Seeking an alternative treatment caused by long queues to doctor office.
+- Insufficient or inadequate therapy
+- Lack of energy or motivation 
+- Education and awareness 
+Our goal is to deliver help not only to people with health problems, but also to casual users who struggle with problems pointed out above.
+
+
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
 
