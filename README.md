@@ -18,8 +18,6 @@ using React and Vanilla JS.</h3>
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
 
-<h3>Travel-Blog</h3>
-https://travel-blog-a62ef.web.app/
 
 - Nutra Stride is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
 Our platform inspire users to make positive changes in their lives through personalized health solutions.
@@ -40,6 +38,8 @@ Self care problems
 - Education and awareness 
 Our goal is to deliver help not only to people with health problems, but also to casual users who struggle with problems pointed out above.
 
+<h3>Travel-Blog</h3>
+https://travel-blog-a62ef.web.app/
 
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
