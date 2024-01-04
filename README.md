@@ -3,7 +3,15 @@
 
 
 </h1>
-<h3 align="center">I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :)</h3>
+<h3 align="center">
+ I build responsive, scalable, and dynamic websites and web applications
+using React and Vanilla JS.</h3>
+<p> I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :)</p>
+
+- 🌱 I’m currently learning Web development with WD22E12 at DCI
+- 🎰 Willing to learn Federated Learning 
+
+
 
 <img src="https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red" alt="html5" width="120" height="30"/>
 <p>Italian design lover.</p>
