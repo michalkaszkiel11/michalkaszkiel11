@@ -119,7 +119,8 @@ Cesar cipher class has its methods:
 <a href="https://linkedin.com/in/michał-kaszkiel-11mk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-kaszkiel-11mk11" height="50" width="60" /></a>
 <a href="https://instagram.com/blessska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessska" height="50" width="60" /></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalkaszkiel11)](https://github.com/michalkaszkiel11/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalkaszkiel11&size_weight=0.5&count_weight=0.5)
 
 <p align="center">
 <h2 align="left">Languages and Tools:</h2>
