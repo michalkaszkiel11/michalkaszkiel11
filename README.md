@@ -152,11 +152,10 @@ Cesar cipher class has its methods:
 </p>
 <br>
 
-    <p align="left">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalkaszkiel11&show_icons=true&locale=en&layout=compact" alt="michalkaszkiel11" />
 </p>
 
-</p>
  <br>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michalkaszkiel11&show_icons=true&theme=dark&title_color=177ede&bg_color=e5f6ff&locale=en" alt="michalkaszkiel11" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michalkaszkiel11&" alt="michalkaszkiel11" /></p>
