@@ -18,7 +18,8 @@ using React and Vanilla JS.</h3>
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
 
-Nutra Stride is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
+# Nutra Stride
+is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
 Our platform inspire users to make positive changes in their lives through personalized health solutions.
 
 Users Target
@@ -71,6 +72,25 @@ Local Guides:
 
 ![Beżowy Brązowy Szary Wyrafinowany Album z Wycinkami Nowy Rok Życzenia Kolaż Zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6c92656f-39d6-473b-82f2-023d8eaf3a8f)
 
+# Rotational Cipher Encryptor:
+is web application designed to provide an easy-to-use Rotational Cipher encryption and decryption tool. This application allows you to secure your messages and data with a classic encryption technique known as the Caesar Cipher. With RoC you can encode and decode messages quickly and securely.
+
+English alphabet consists of 26 characters. App can also code password with numbers from 0 to 9 to improve difficulty for unauthorized decryptors.
+Cesar cipher class has its methods:
+
+1. encrypt()
+
+-   takes two arguments:
+    -         lowercased string which will be decrypted
+    -         the offset, the shift distance chosen by an index heading left.
+              Each letter is replaced by another letter of offset index located
+              a little further in the alphabet.
+
+2. decrypt()
+
+-   takes two arguments:
+    -         decoded password - analogically method decrypts previously coded password,
+    -         the offset.
 
 <p>
  <h3 align="left">Check out my portfolio here:</h3>
