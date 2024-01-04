@@ -1,6 +1,6 @@
 ![1702489916906](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/3a43d28b-c469-4715-8e2a-f3db68e0f03c)
 <h1 align="center">Hi 👋, I'm Michal Kaszkiel
-![Professional and Elegant Depop Profile Picture (2)](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/31ce558e-f5a4-4793-b619-7704f3a1cc13)
+
 
 </h1>
 <h3 align="center">I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :)</h3>
