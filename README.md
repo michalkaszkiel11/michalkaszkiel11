@@ -1,6 +1,6 @@
 ![1702489916906](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/3a43d28b-c469-4715-8e2a-f3db68e0f03c)
 <h1 align="center">Hi 👋, I'm Michal Kaszkiel</h1>
-<h3 align="center">I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :D</h3>
+<h3 align="center">I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :)</h3>
 
 <img src="https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red" alt="html5" width="120" height="30"/>
 <p>Italian design lover.</p>
@@ -18,5 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalkaszkiel11&show_icons=true&locale=en&layout=compact" alt="michalkaszkiel11" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalkaszkiel11&show_icons=true&theme=dark&title_color=177ede&bg_color=e5f6ff&locale=en" alt="michalkaszkiel11" /></p>
+<br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalkaszkiel11&" alt="michalkaszkiel11" /></p>
