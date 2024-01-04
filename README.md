@@ -22,8 +22,8 @@ using React and Vanilla JS.</h3>
 is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
 Our platform inspire users to make positive changes in their lives through personalized health solutions.
 
-Users Target
-- In nearly every European country approximately  10% of population  is affected by significant health conditions.
+- Users Target
+-    In nearly every European country approximately  10% of population  is affected by significant health conditions.
 - 30% may have health problems.
 - About 60 to 70% of population have no major health issues.
 
