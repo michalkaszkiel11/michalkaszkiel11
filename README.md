@@ -18,8 +18,7 @@ using React and Vanilla JS.</h3>
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
 
-
-- Nutra Stride is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
+Nutra Stride is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
 Our platform inspire users to make positive changes in their lives through personalized health solutions.
 
 Users Target
