@@ -12,11 +12,24 @@ using React and Vanilla JS.</h3>
 - 🎰 Willing to learn Federated Learning 
 
 <h2 align="center">My Work</h2>
+- Nutra-Stride https://nutra-stride.netlify.app/
+![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
-![Beige   Grey Minimalist Aesthetic Simple Grid Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/f5a7cc40-2027-4ba9-bec7-5ad812d47ff1)
+
+- Travel Blog https://travel-blog-a62ef.web.app/
+![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
+
+ 
+- Simple-Task https://simple-list-mk.netlify.app/
+![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
+
+ 
+- RoC-Encryptor https://roc-encryptor.netlify.app/
+  ![Beżowy Brązowy Szary Wyrafinowany Album z Wycinkami Nowy Rok Życzenia Kolaż Zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6c92656f-39d6-473b-82f2-023d8eaf3a8f)
+
 
 <p>
- <h3 align="left">Check out my portfolio with the links to my web apps </h3>
+ <h3 align="left">Check out my portfolio here:</h3>
  <a href="/https://michalkaszkiel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app/" height="50" width="60" /></a>
 </p>
 
