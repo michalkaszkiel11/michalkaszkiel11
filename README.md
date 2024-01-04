@@ -81,6 +81,6 @@ using React and Vanilla JS.</h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalkaszkiel11&" alt="michalkaszkiel11" /></p>
 
 
-<h2><p align="left">🥰</p>
+<h2 align="center"><p align="left">🥰</p>
  <p align="center">I am always happy to host you here. Take care!</p>
  <p align="right">🥰</p></h2>
