@@ -22,8 +22,8 @@ using React and Vanilla JS.</h3>
 is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
 Our platform inspire users to make positive changes in their lives through personalized health solutions.
 
-- Users Target
--    In nearly every European country approximately  10% of population  is affected by significant health conditions.
+Users Target
+- In nearly every European country approximately  10% of population  is affected by significant health conditions.
 - 30% may have health problems.
 - About 60 to 70% of population have no major health issues.
 
@@ -66,6 +66,17 @@ Local Guides:
   
 ![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
 
+Task Creation and Priority:
+- Effortless Task Entry: Quickly create tasks with a simple title and description.
+- Priority Rating: Assign a priority rating to each task using a 5-star system, helping you identify and focus on high-priority items.
+
+User-Friendly Interface:
+- Intuitive Design: Navigate through your tasks with ease through our clean and intuitive interface.
+- Mobile Accessibility: Manage your tasks on the go with a mobile-friendly design.
+
+Task Progress:
+- Move from To-Do to Done: Mark tasks as complete and seamlessly move them from the to-do list to the done list.
+- Track Accomplishments: Review your completed tasks to track your accomplishments over time.
  
 <h3>RoC-Encryptor</h3>
 - https://roc-encryptor.netlify.app/
