@@ -80,4 +80,7 @@ using React and Vanilla JS.</h3>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalkaszkiel11&show_icons=true&theme=dark&title_color=177ede&bg_color=e5f6ff&locale=en" alt="michalkaszkiel11" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalkaszkiel11&" alt="michalkaszkiel11" /></p>
 
-<h2>🥰I am always happy to host you here. Take care!🥰</h2>
+
+<h2><p align="left">🥰</p>
+ <p align="center">I am always happy to host you here. Take care!</p>
+ <p align="right">🥰</p></h2>
