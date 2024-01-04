@@ -20,8 +20,7 @@ using React and Vanilla JS.</h3>
  <a href="/https://michalkaszkiel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app/" height="50" width="60" /></a>
 </p>
 
-<img src="https://img.shields.io/badge/AlfaRomeo-000000?style=for-the-badge&logo=AlfaRomeo&logoColor=red" alt="html5" width="120" height="30"/>
-<p>Italian design lover.</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
