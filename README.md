@@ -12,13 +12,13 @@ using React and Vanilla JS.</h3>
 - 🎰 Willing to learn Federated Learning 
 
 <h2 align="center">My Work</h2>
-<h3>Nutra-Stride</h3>
+# Nutra Stride
  https://nutra-stride.netlify.app/
  
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
+<h3>Nutra-Stride</h3>
 
-# Nutra Stride
 is a dynamic web application dedicated not only to individuals with special health conditions but also to anyone aspiring to make a real impact on their well-being.
 Our platform inspire users to make positive changes in their lives through personalized health solutions.
 
@@ -38,12 +38,12 @@ Self care problems
 - Education and awareness 
 Our goal is to deliver help not only to people with health problems, but also to casual users who struggle with problems pointed out above.
 
-<h3>Travel-Blog</h3>
+# Travel-Blog
 https://travel-blog-a62ef.web.app/
 
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
-# Travel-Blog
+<h3>Travel-Blog</h3>
 Whether you're a seasoned globetrotter or a first-time explorer, our blog is designed to cater to your wanderlust cravings with a touch of simplicity and warmth.
 
 Story Sharing:
@@ -62,12 +62,13 @@ Local Guides:
 - Authentic Local Experiences: Access curated guides created by locals. Experience a destination through the eyes of those who call it home.
 
 
-<h3>Simple-Task</h3>
+# Simple-Task
   https://simple-list-mk.netlify.app/
   
 ![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
 
-# Simple-Task
+<h3>Simple-Task</h3>
+
 Task Creation and Priority:
 - Effortless Task Entry: Quickly create tasks with a simple title and description.
 - Priority Rating: Assign a priority rating to each task using a 5-star system, helping you identify and focus on high-priority items.
@@ -79,13 +80,13 @@ User-Friendly Interface:
 Task Progress:
 - Move from To-Do to Done: Mark tasks as complete and seamlessly move them from the to-do list to the done list.
 - Track Accomplishments: Review your completed tasks to track your accomplishments over time.
- 
-<h3>RoC-Encryptor</h3>
+
+ # Rotational Cipher Encryptor
 - https://roc-encryptor.netlify.app/
 
 ![Beżowy Brązowy Szary Wyrafinowany Album z Wycinkami Nowy Rok Życzenia Kolaż Zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6c92656f-39d6-473b-82f2-023d8eaf3a8f)
 
-# Rotational Cipher Encryptor:
+<h3>RoC-Encryptor</h3>
 is web application designed to provide an easy-to-use Rotational Cipher encryption and decryption tool. This application allows you to secure your messages and data with a classic encryption technique known as the Caesar Cipher. With RoC you can encode and decode messages quickly and securely.
 
 English alphabet consists of 26 characters. App can also code password with numbers from 0 to 9 to improve difficulty for unauthorized decryptors.
