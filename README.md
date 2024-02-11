@@ -109,7 +109,7 @@ Cesar cipher class has its methods:
 
 <p>
  <h3 align="left">Check out my portfolio here:</h3>
- <a href="/https://michalkaszkiel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app/" height="50" width="60" /></a>
+ <a href="/https://michalkaszkiel.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://michalkaszkiel.netlify.app" height="50" width="60" /></a>
 </p>
 
 
