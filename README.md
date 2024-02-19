@@ -82,6 +82,19 @@ Task Progress:
 - Move from To-Do to Done: Mark tasks as complete and seamlessly move them from the to-do list to the done list.
 - Track Accomplishments: Review your completed tasks to track your accomplishments over time.
 
+# Currency Converter Plus+
+
+A simple and intuitive currency converter web application built with React.
+
+## Features
+
+- **Currency Conversion:** Convert between different currencies in real-time.
+- **Latest Exchange Rates:** Fetches the latest exchange rates from an external API.
+- **Responsive Design:** Ensures a seamless experience across various devices.
+  
+![Beige Collage Massage Promotion Facebook Post](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/a96a43b2-13f2-48f0-bfad-00a95c97dda6)
+
+
  # Rotational Cipher Encryptor
 - https://roc-encryptor.netlify.app/
 
