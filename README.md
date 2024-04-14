@@ -6,10 +6,8 @@
 <h3 align="center">
  I build responsive, scalable, and dynamic websites and web applications
 using React and Vanilla JS.</h3>
-<p> I'm intrested in modern technologies and I strongly drive to excel in the ever-evolving digital landscape. - no it wasn't written by AI :)</p>
 
 - 🌱 Web developer from Digital Career Institute 22E12.
-- 🎰 Willing to learn Federated Learning 
 
 <h2 align="center">My Work</h2>
 
