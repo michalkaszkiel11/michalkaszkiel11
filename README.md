@@ -13,6 +13,7 @@ using React and Vanilla JS.</h3>
 
 # Nutra Stride
  https://nutra-stride.netlify.app/
+https://github.com/michalkaszkiel11/nutra-stride-2k
  
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
@@ -63,6 +64,7 @@ Local Guides:
 
 # Simple-Task
   https://simple-list-mk.netlify.app/
+  https://github.com/michalkaszkiel11/Task-Listing
   
 ![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
 
@@ -83,6 +85,7 @@ Task Progress:
 
 # Filmbase
   https://filmbased.netlify.app/
+  https://github.com/michalkaszkiel11/filmbase
   
 ![Biały Beżowy Schludny Rodzinny Urodzinowy Post na Instagram – kolaż zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/3cbdecc5-37b9-416b-9403-4712665cfd0c)
 
@@ -103,6 +106,9 @@ Stay organized and keep track of your viewing history, ratings, and reviews to c
 
 # Currency Converter Plus+
 
+http://currency-converter-plus.netlify.app/
+https://github.com/michalkaszkiel11/-Converter
+
 A simple and intuitive currency converter web application built with React.
 
 ## Features
@@ -114,6 +120,7 @@ A simple and intuitive currency converter web application built with React.
 ![Beige Collage Massage Promotion Facebook Post](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/a96a43b2-13f2-48f0-bfad-00a95c97dda6)
  # Rotational Cipher Encryptor
 - https://roc-encryptor.netlify.app/
+- https://github.com/michalkaszkiel11/RoC-Encryptor
 
 ![Beżowy Brązowy Szary Wyrafinowany Album z Wycinkami Nowy Rok Życzenia Kolaż Zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6c92656f-39d6-473b-82f2-023d8eaf3a8f)
 
