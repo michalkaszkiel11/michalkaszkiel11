@@ -12,8 +12,8 @@ using React and Vanilla JS.</h3>
 <h2 align="center">My Work</h2>
 
 # Nutra Stride
- https://nutra-stride.netlify.app/
-https://github.com/michalkaszkiel11/nutra-stride-2k
+- https://nutra-stride.netlify.app/
+- https://github.com/michalkaszkiel11/nutra-stride-2k
  
 ![Kwiaty i rośliny](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/bc899c59-5c92-4857-b92e-4797929fcad5)
 
@@ -39,7 +39,7 @@ Self care problems
 Our goal is to deliver help not only to people with health problems, but also to casual users who struggle with problems pointed out above.
 
 # Travel-Blog
-https://travel-blog-a62ef.web.app/
+- https://travel-blog-a62ef.web.app/
 
 ![Beige Minimalist Aesthetic Clean Grid Moodboard Photo Collage](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/6fe7be76-be06-4c2a-bf04-06c5eee45ca7)
 
@@ -63,8 +63,8 @@ Local Guides:
 
 
 # Simple-Task
-  https://simple-list-mk.netlify.app/
-  https://github.com/michalkaszkiel11/Task-Listing
+ - https://simple-list-mk.netlify.app/
+ - https://github.com/michalkaszkiel11/Task-Listing
   
 ![Beżowy i Czarny Pogrubienie i Jasny Zdjęcie Kolaż](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/84d71da2-277e-4b6c-bd7f-c2ef1020440a)
 
@@ -84,8 +84,8 @@ Task Progress:
 
 
 # Filmbase
-  https://filmbased.netlify.app/
-  https://github.com/michalkaszkiel11/filmbase
+ - https://filmbased.netlify.app/
+ - https://github.com/michalkaszkiel11/filmbase
   
 ![Biały Beżowy Schludny Rodzinny Urodzinowy Post na Instagram – kolaż zdjęć](https://github.com/michalkaszkiel11/michalkaszkiel11/assets/149673103/3cbdecc5-37b9-416b-9403-4712665cfd0c)
 
@@ -106,8 +106,8 @@ Stay organized and keep track of your viewing history, ratings, and reviews to c
 
 # Currency Converter Plus+
 
-http://currency-converter-plus.netlify.app/
-https://github.com/michalkaszkiel11/-Converter
+- http://currency-converter-plus.netlify.app/
+- https://github.com/michalkaszkiel11/-Converter
 
 A simple and intuitive currency converter web application built with React.
 
